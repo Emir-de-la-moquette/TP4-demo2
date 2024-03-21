@@ -1,0 +1,15 @@
+{
+    "boite":[
+        {"Thing" : "quoi"},
+        {"Thing" : "feur"},
+        {"Thing" : "  ------  "},
+        {"Thing" : "quoi"},
+        {"Thing" : "cou"},
+        {"Thing" : "bébou"},
+        {"Thing" : " au"},
+        {"Thing" : " caramel"},
+        {"Thing" : " sucré"}
+    ],
+    "ouvert":true,
+    "capacity":5
+}
